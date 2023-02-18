@@ -1,0 +1,7 @@
+ body {
+            background-color: rgba(163, 224, 252, 0.999);
+        }
+        
+        h1 {
+            background: #fff url(../images/bg.jpg) repeat-x; font-family: helvetica neue,Helvetica,Arial,sans-serif; font-size: 12px;
+        }
